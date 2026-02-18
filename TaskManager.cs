@@ -26,7 +26,7 @@ namespace CloudTaskManager
                     Id = Guid.NewGuid().ToString(),
                     Title = title,
                     IsComplete = false,
-                    CreatedAt = DateTime.Now
+                    CreatedAt = DateTime.UtcNow
                 };
 
                 // Save to Firestore

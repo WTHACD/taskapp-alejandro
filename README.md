@@ -57,6 +57,7 @@ A C# console application that manages tasks using Google Firestore as a cloud da
 ## 🎓 Learning Objectives
 
 This project demonstrates:
+
 - Cloud database integration
 - CRUD operations with Firestore
 - Asynchronous programming in C#

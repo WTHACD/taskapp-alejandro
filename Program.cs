@@ -2,7 +2,7 @@
 
 Console.Clear();
 Console.WriteLine("╔═══════════════════════════════════════════════════════════════╗");
-Console.WriteLine("║              CLOUD TASK MANAGER - FIRESTORE APP              ║");
+Console.WriteLine("║              CLOUD TASK MANAGER - FIRESTORE APP               ║");
 Console.WriteLine("╚═══════════════════════════════════════════════════════════════╝");
 Console.WriteLine();
 
@@ -50,7 +50,7 @@ catch (Exception ex)
 bool running = true;
 while (running)
 {
-    Console.WriteLine("\n╔═══════════════════════════════════════╗");
+    Console.WriteLine("\n╔═════════════════════════════════════╗");
     Console.WriteLine("║            MAIN MENU                  ║");
     Console.WriteLine("╠═══════════════════════════════════════╣");
     Console.WriteLine("║  1. View Tasks                        ║");
